@@ -18,6 +18,8 @@ All code is written in Python. Please use [this guide](http://nbviewer.jupyter.o
 
 [Part 2 Slides](https://github.com/SchoolofAI-Vancouver/NLP_Project_2/blob/master/src/slides.ipynb)
 
+[Apache Spark](https://github.com/SchoolofAI-Vancouver/NLP_Project_2/blob/master/doc/apache-spark_presentation.pdf)
+
 ## Resources
 
 The project uses data from Kaggle's [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). The data can be found [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).
